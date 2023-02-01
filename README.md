@@ -1,2 +1,2 @@
 # CS2012_Labs-HWS
-All homeworkd and labs for CS 2012 
+All homeworks and labs for CS 2012 
